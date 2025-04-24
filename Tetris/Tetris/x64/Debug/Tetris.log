@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\anima\source\repos\Tetris\Tetris\Shape.hpp(75,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\anima\source\repos\Tetris\Tetris\Shape.hpp(76,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\anima\source\repos\Tetris\Tetris\GameBoard.hpp(136,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\anima\source\repos\Tetris\Tetris\GameBoard.hpp(137,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Tetris.vcxproj -> C:\Users\anima\source\repos\Tetris\x64\Debug\Tetris.exe
