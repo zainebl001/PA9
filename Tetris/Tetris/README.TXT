@@ -24,3 +24,8 @@ Video Demo:
 !!!WARNING!!! Audio may be loud when opening the video.
 
 https://youtube.com/shorts/bpy_PEe9520?feature=share
+
+Note:
+------------------------------------------------------------
+If you are unable to see the text in game make sure you are
+on release mode for visual studio
